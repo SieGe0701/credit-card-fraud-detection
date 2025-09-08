@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files
+/data/*.csv
+/data/*.pkl
+
+# Test outputs
+/tests/*.log
+/tests/*.out
+
+# Docker artifacts
+Dockerfile
+/docker-compose.yml
+/dist/
+/build/
+/*.tar
+
+# Web UI cache
+/src/__pycache__/
+
+# Virtual environment
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
