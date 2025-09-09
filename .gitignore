@@ -12,6 +12,7 @@ __pycache__/
 # Data files
 /data/*.csv
 /data/*.pkl
+/data/models/
 
 # Test outputs
 /tests/*.log
